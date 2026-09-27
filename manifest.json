@@ -1,0 +1,650 @@
+[
+  {
+    "file": "stickers_512/001.png",
+    "source": "image-gen-1.png",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/002.png",
+    "source": "image-gen-1.png",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/003.png",
+    "source": "image-gen-1.png",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/004.png",
+    "source": "image-gen-1.png",
+    "row": 1,
+    "column": 4
+  },
+  {
+    "file": "stickers_512/005.png",
+    "source": "image-gen-1.png",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/006.png",
+    "source": "image-gen-1.png",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/007.png",
+    "source": "image-gen-1.png",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/008.png",
+    "source": "image-gen-1.png",
+    "row": 2,
+    "column": 4
+  },
+  {
+    "file": "stickers_512/009.png",
+    "source": "image-gen-1.png",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/010.png",
+    "source": "image-gen-1.png",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/011.png",
+    "source": "image-gen-1.png",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/012.png",
+    "source": "image-gen-1.png",
+    "row": 3,
+    "column": 4
+  },
+  {
+    "file": "stickers_512/013.png",
+    "source": "image-gen-2.png",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/014.png",
+    "source": "image-gen-2.png",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/015.png",
+    "source": "image-gen-2.png",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/016.png",
+    "source": "image-gen-2.png",
+    "row": 1,
+    "column": 4
+  },
+  {
+    "file": "stickers_512/017.png",
+    "source": "image-gen-2.png",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/018.png",
+    "source": "image-gen-2.png",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/019.png",
+    "source": "image-gen-2.png",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/020.png",
+    "source": "image-gen-2.png",
+    "row": 2,
+    "column": 4
+  },
+  {
+    "file": "stickers_512/021.png",
+    "source": "image-gen-2.png",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/022.png",
+    "source": "image-gen-2.png",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/023.png",
+    "source": "image-gen-2.png",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/024.png",
+    "source": "image-gen-2.png",
+    "row": 3,
+    "column": 4
+  },
+  {
+    "file": "stickers_512/025.png",
+    "source": "九宫格像素小杜宾表情包.png",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/026.png",
+    "source": "九宫格像素小杜宾表情包.png",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/027.png",
+    "source": "九宫格像素小杜宾表情包.png",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/028.png",
+    "source": "九宫格像素小杜宾表情包.png",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/029.png",
+    "source": "九宫格像素小杜宾表情包.png",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/030.png",
+    "source": "九宫格像素小杜宾表情包.png",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/031.png",
+    "source": "九宫格像素小杜宾表情包.png",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/032.png",
+    "source": "九宫格像素小杜宾表情包.png",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/033.png",
+    "source": "九宫格像素小杜宾表情包.png",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/034.png",
+    "source": "九宫格像素杜宾幼犬贴纸集.png",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/035.png",
+    "source": "九宫格像素杜宾幼犬贴纸集.png",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/036.png",
+    "source": "九宫格像素杜宾幼犬贴纸集.png",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/037.png",
+    "source": "九宫格像素杜宾幼犬贴纸集.png",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/038.png",
+    "source": "九宫格像素杜宾幼犬贴纸集.png",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/039.png",
+    "source": "九宫格像素杜宾幼犬贴纸集.png",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/040.png",
+    "source": "九宫格像素杜宾幼犬贴纸集.png",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/041.png",
+    "source": "九宫格像素杜宾幼犬贴纸集.png",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/042.png",
+    "source": "九宫格像素杜宾幼犬贴纸集.png",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/043.png",
+    "source": "九宫格像素杜宾犬表情包(1).png",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/044.png",
+    "source": "九宫格像素杜宾犬表情包(1).png",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/045.png",
+    "source": "九宫格像素杜宾犬表情包(1).png",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/046.png",
+    "source": "九宫格像素杜宾犬表情包(1).png",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/047.png",
+    "source": "九宫格像素杜宾犬表情包(1).png",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/048.png",
+    "source": "九宫格像素杜宾犬表情包(1).png",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/049.png",
+    "source": "九宫格像素杜宾犬表情包(1).png",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/050.png",
+    "source": "九宫格像素杜宾犬表情包(1).png",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/051.png",
+    "source": "九宫格像素杜宾犬表情包(1).png",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/052.png",
+    "source": "九宫格像素杜宾犬表情包(2).png",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/053.png",
+    "source": "九宫格像素杜宾犬表情包(2).png",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/054.png",
+    "source": "九宫格像素杜宾犬表情包(2).png",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/055.png",
+    "source": "九宫格像素杜宾犬表情包(2).png",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/056.png",
+    "source": "九宫格像素杜宾犬表情包(2).png",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/057.png",
+    "source": "九宫格像素杜宾犬表情包(2).png",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/058.png",
+    "source": "九宫格像素杜宾犬表情包(2).png",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/059.png",
+    "source": "九宫格像素杜宾犬表情包(2).png",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/060.png",
+    "source": "九宫格像素杜宾犬表情包(2).png",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/061.png",
+    "source": "九宫格像素杜宾犬表情包.png",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/062.png",
+    "source": "九宫格像素杜宾犬表情包.png",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/063.png",
+    "source": "九宫格像素杜宾犬表情包.png",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/064.png",
+    "source": "九宫格像素杜宾犬表情包.png",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/065.png",
+    "source": "九宫格像素杜宾犬表情包.png",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/066.png",
+    "source": "九宫格像素杜宾犬表情包.png",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/067.png",
+    "source": "九宫格像素杜宾犬表情包.png",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/068.png",
+    "source": "九宫格像素杜宾犬表情包.png",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/069.png",
+    "source": "九宫格像素杜宾犬表情包.png",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/070.png",
+    "source": "九宫格杜宾犬像素表情包.png",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/071.png",
+    "source": "九宫格杜宾犬像素表情包.png",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/072.png",
+    "source": "九宫格杜宾犬像素表情包.png",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/073.png",
+    "source": "九宫格杜宾犬像素表情包.png",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/074.png",
+    "source": "九宫格杜宾犬像素表情包.png",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/075.png",
+    "source": "九宫格杜宾犬像素表情包.png",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/076.png",
+    "source": "九宫格杜宾犬像素表情包.png",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/077.png",
+    "source": "九宫格杜宾犬像素表情包.png",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/078.png",
+    "source": "九宫格杜宾犬像素表情包.png",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/079.png",
+    "source": "九格像素杜宾犬表情贴纸娱乐主管.png",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/080.png",
+    "source": "九格像素杜宾犬表情贴纸娱乐主管.png",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/081.png",
+    "source": "九格像素杜宾犬表情贴纸娱乐主管.png",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/082.png",
+    "source": "九格像素杜宾犬表情贴纸娱乐主管.png",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/083.png",
+    "source": "九格像素杜宾犬表情贴纸娱乐主管.png",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/084.png",
+    "source": "九格像素杜宾犬表情贴纸娱乐主管.png",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/085.png",
+    "source": "九格像素杜宾犬表情贴纸娱乐主管.png",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/086.png",
+    "source": "九格像素杜宾犬表情贴纸娱乐主管.png",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/087.png",
+    "source": "九格像素杜宾犬表情贴纸娱乐主管.png",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/088.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/089.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/090.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/091.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 1,
+    "column": 4
+  },
+  {
+    "file": "stickers_512/092.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 1,
+    "column": 5
+  },
+  {
+    "file": "stickers_512/093.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 1,
+    "column": 6
+  },
+  {
+    "file": "stickers_512/094.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/095.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/096.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/097.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 2,
+    "column": 4
+  },
+  {
+    "file": "stickers_512/098.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 2,
+    "column": 5
+  },
+  {
+    "file": "stickers_512/099.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 2,
+    "column": 6
+  },
+  {
+    "file": "stickers_512/100.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/101.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "file": "stickers_512/102.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "file": "stickers_512/103.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 3,
+    "column": 4
+  },
+  {
+    "file": "stickers_512/104.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 3,
+    "column": 5
+  },
+  {
+    "file": "stickers_512/105.png",
+    "source": "像素杜宾犬表情贴纸合集.png",
+    "row": 3,
+    "column": 6
+  },
+  {
+    "file": "stickers_512/106.png",
+    "source": "可爱的像素杜宾幼犬.png",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/107.png",
+    "source": "极简像素杜宾犬图标.png",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "file": "stickers_512/108.png",
+    "source": "活力像素杜宾犬跃步姿态.png",
+    "row": 1,
+    "column": 1
+  }
+]
