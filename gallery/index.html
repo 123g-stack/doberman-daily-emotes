@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#111318">
+  <title>杜宾犬日常表情包</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div>
+      <p class="eyebrow">DOBERMAN DAILY EMOTES</p>
+      <h1>杜宾犬日常表情包</h1>
+      <p class="intro">108 张透明底像素表情。点开任意一张即可单独下载。</p>
+    </div>
+    <a class="download-all" href="../downloads/doberman-emotes-108-transparent-png.zip" download>下载全部</a>
+  </header>
+
+  <main>
+    <div class="toolbar">
+      <span id="count">108 张</span>
+      <label>
+        每行
+        <select id="columns" aria-label="每行显示数量">
+          <option value="3">3</option>
+          <option value="4" selected>4</option>
+          <option value="6">6</option>
+        </select>
+      </label>
+    </div>
+    <section id="gallery" class="gallery" aria-label="杜宾犬表情列表"></section>
+  </main>
+
+  <template id="card-template">
+    <article class="card">
+      <a class="image-link" download>
+        <img loading="lazy" decoding="async" alt="">
+      </a>
+      <div class="meta">
+        <span class="number"></span>
+        <a class="save" download>下载 PNG</a>
+      </div>
+    </article>
+  </template>
+  <script src="app.js"></script>
+</body>
+</html>
+
