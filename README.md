@@ -10,7 +10,7 @@
 - 支持 Git 仓库导入的工具，可直接使用本仓库地址；也可以执行：
 
 ```bash
-git clone <本仓库地址>
+git clone https://github.com/123g-stack/doberman-daily-emotes.git
 ```
 
 ## 文件结构
@@ -24,4 +24,3 @@ manifest.json  原组图、行列与成品文件的对应关系
 ```
 
 所有表情按原窗口图片的先后顺序，以及每张组图从左到右、从上到下排列。
-
